@@ -19,8 +19,9 @@ Step 2. Openvino 2023.1 버전 다운받아, 압축해제 후 해당 폴더로 �
 
 Step 3. Python 3.10.11 버전 다운받아 설치하기
 - 다운로드 링크: https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe
-  * 하단의 Add Path 체크하고 설치 하기
-![image](https://github.com/user-attachments/assets/0b285b40-aab1-42db-bcc0-a23f66f552f8)
+  * 하단의 [Add python.exe to PATH] 체크하고 설치 하기
+![image](https://github.com/user-attachments/assets/18ca1394-a91e-40fb-a1b4-8d3c9775cd96)
+
 
 Step 4. Microsoft Visual C++ 재배포 가능 패키지 다운받아 설치하기
 - 다운로드 링크: https://aka.ms/vs/17/release/vc_redist.x86.exe
