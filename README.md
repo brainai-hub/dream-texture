@@ -60,11 +60,16 @@ Step 6. w_openvino_toolkit_windows_.... 폴더의 openvino 폴더를 복사 하�
 ![image](https://github.com/user-attachments/assets/1bee89be-3303-48d0-8b37-67f7ca07afa1)
 
 Step 7. 프로그램 실행하기
-- OpenVINO 사용 환경 실행하기
+
+- OpenVINO 사용 환경 실행하기: C:\Program Files (x86)\Intel\w_openvino_toolkit_windows_2023.1.0.12185.47b736f63ed_x86_64>setupvars.bat
+
+![image](https://github.com/user-attachments/assets/6b908e19-4981-4b4b-a408-841a328d08d3)
 
 
+- Blender 프로그램 실행하기: C:\Program Files\Blender Foundation\Blender 3.4>blender.exe
 
-- Blender 프로그램 실행하기
+![image](https://github.com/user-attachments/assets/3e92a9e0-7000-4e2d-8295-778e9db980e7)
+
 
 
 
