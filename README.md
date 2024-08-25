@@ -39,9 +39,10 @@ Step 6. Dream-textures-openvino  애드온 설치하기
 
 ![image](https://github.com/user-attachments/assets/f6fb0843-8ec5-4a94-be5c-665ad4f0b430)
 
-- 설치 과정에서 계속 진행을 위해 'Y' 또는 'y'를 입력한 후 엔터키로 설치를 계속진행하기
+- 설치 과정에서 계속 진행을 위해 'Y' 또는 'y'를 입력한 후 엔터키로 설치를 계속 진행하기
+- 그 후 모든 모델을 다운 받기 위해 '3'을 입력하고 설치를 계속 진행하기
+![image](https://github.com/user-attachments/assets/016c98c7-0229-48df-b67b-f5bc668b0a84)
 
-![image](https://github.com/user-attachments/assets/fa0e2b66-3d34-4d8d-a362-52025681e767)
 
 
 
