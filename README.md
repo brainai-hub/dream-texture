@@ -13,8 +13,9 @@
 Step 1. 블렌더 3.4 버전 다운받아 설치하기
 - 다운로드 링크: https://mirrors.dotsrc.org/blender/release/Blender3.4/blender-3.4.0-windows-x64.msi
 
-Step 2. Openvino 2023.1 버전 다운받아 설치하기
+Step 2. Openvino 2023.1 버전 다운받아, 압축해제 후 해당 폴더로 이동하기
 - 다운로드 링크: https://storage.openvinotoolkit.org/repositories/openvino/packages/2023.1/windows/w_openvino_toolkit_windows_2023.1.0.12185.47b736f63ed_x86_64.zip
+![image](https://github.com/user-attachments/assets/512cba38-01c2-47a8-9965-a3e38c8f8f07)
 
 Step 3. Python 3.10.11 버전 다운받아 설치하기
 - 다운로드 링크: https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe
