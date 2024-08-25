@@ -45,8 +45,11 @@ Step 6. Dream-textures-openvino  애드온 설치하기
 ![image](https://github.com/user-attachments/assets/016c98c7-0229-48df-b67b-f5bc668b0a84)
 
 Step 6. w_openvino_toolkit_windows_.... 폴더의 openvino 폴더를 복사 하여 Blender...\.python_dependencies 폴더에 붙여 넣기
+- 복사 폴더: C:\Program Files (x86)\Intel\w_openvino_toolkit_windows_2023.1.0.12185.47b736f63ed_x86_64\python
 
 ![image](https://github.com/user-attachments/assets/0edd37c5-7b23-43bc-9d53-7301f6085118)
+
+- 붙여 넣기 폴더: C:\Program Files\Blender Foundation\Blender 3.4\3.4\scripts\addons\dream_textures\.python_dependencies
 
 ![image](https://github.com/user-attachments/assets/1bee89be-3303-48d0-8b37-67f7ca07afa1)
 
