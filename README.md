@@ -13,20 +13,25 @@
 Step 1. 블렌더 3.4 버전 다운받아 설치하기
 - 다운로드 링크: https://mirrors.dotsrc.org/blender/release/Blender3.4/blender-3.4.0-windows-x64.msi
 
-Step 2. Openvino 2023.1 버전 다운받아, 압축해제 후 해당 폴더로 이동하기
+Step 2. Openvino 2023.1 버전 다운받아, 압축해제 후 해당 폴더에 위치시키기
 - 다운로드 링크: https://storage.openvinotoolkit.org/repositories/openvino/packages/2023.1/windows/w_openvino_toolkit_windows_2023.1.0.12185.47b736f63ed_x86_64.zip
 ![image](https://github.com/user-attachments/assets/512cba38-01c2-47a8-9965-a3e38c8f8f07)
 
 Step 3. Python 3.10.11 버전 다운받아 설치하기
 - 다운로드 링크: https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe
   * 하단의 [Add python.exe to PATH] 체크하고 설치 하기
+  * 
 ![image](https://github.com/user-attachments/assets/18ca1394-a91e-40fb-a1b4-8d3c9775cd96)
 
 
 Step 4. Microsoft Visual C++ 재배포 가능 패키지 다운받아 설치하기
 - 다운로드 링크: https://aka.ms/vs/17/release/vc_redist.x86.exe
 
-Step 5. Dream-textures-openvino  애드폰 파일 다운받아 해당 폴더에 위치시키기
+Step 5. Dream-textures-openvino  애드온 파일 다운받아, 압축 해제 후 해당 폴더에 위치시키기
 - 다운로드 링크: [https://github.com/intel/dream-textures-openvino.git](https://github.com/intel/dream-textures-openvino/archive/refs/heads/main.zip)
+  * C:\Program Files\Blender Foundation\Blender 3.4\3.4\scripts\addons\dream_textures
+
+![image](https://github.com/user-attachments/assets/1a0b7024-60d7-4a24-9872-cc7b588a9317)
+
 
 
