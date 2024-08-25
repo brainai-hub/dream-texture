@@ -8,6 +8,7 @@
 - Openvino 2023.1
 - Python-3.10.11-amd64.exe
 - the MSFT Visual C++ Runtime: vc_redist.x86
+- Dream-textures-openvino  애드온 파일 git에서 다운 받아 설치하기
 
 
 Step 1. 블렌더 3.4 버전 다운받아 설치하기
@@ -32,6 +33,14 @@ Step 5. Dream-textures-openvino  애드온 파일 다운받아, 압축 해제 �
   * C:\Program Files\Blender Foundation\Blender 3.4\3.4\scripts\addons\dream_textures
 
 ![image](https://github.com/user-attachments/assets/1a0b7024-60d7-4a24-9872-cc7b588a9317)
+
+Step 6. Dream-textures-openvino  애드온 설치하기
+- 해당 폴더로 이동한 후 install.bat 파일 실행하기
+
+![image](https://github.com/user-attachments/assets/f6fb0843-8ec5-4a94-be5c-665ad4f0b430)
+
+- 
+
 
 
 
